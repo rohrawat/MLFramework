@@ -1,6 +1,6 @@
 ### MLFramework
 This repository is to learn about how to establish ML Framework to keep everything tidy.
-Dataset used for this is ##Categorical Feature Encoding Challenge from Kaggle.
+Dataset used for this is <b>Categorical Feature Encoding Challenge<\b> from Kaggle.
 createfold.py- used to create StratifiedKFold for data.
 dispatcher.py- used to select between which model to be run.
 train.py- used for training of data.
